@@ -1,0 +1,87 @@
+{
+  "certificates": {
+    "Lambert_redundancy": {
+      "residual": "0",
+      "quadratic_relation_used": false
+    },
+    "partial_fraction": {
+      "residual": "0",
+      "quadratic_relation_used": true
+    },
+    "beta_specialization": {
+      "residual": "0",
+      "quadratic_relation_used": true
+    },
+    "telescoper": {
+      "residual": "0",
+      "quadratic_relation_used": true
+    },
+    "universal_cubic_identity": {
+      "residual": "0",
+      "quadratic_relation_used": false
+    },
+    "product_constant": {
+      "residual": "0",
+      "quadratic_relation_used": false
+    },
+    "tail_base_n2": {
+      "residual": "0",
+      "quadratic_relation_used": false
+    },
+    "tail_all_index_ratio": {
+      "residual": "0",
+      "quadratic_relation_used": false
+    },
+    "J1_branch": {
+      "residual": "0",
+      "quadratic_relation_used": true
+    },
+    "P_over_R_product_shift": {
+      "residual": "0",
+      "quadratic_relation_used": false
+    },
+    "cubic_constant": {
+      "residual": "0",
+      "quadratic_relation_used": false
+    },
+    "C_kernel_first_root": {
+      "residual": "0",
+      "quadratic_relation_used": false
+    },
+    "C_kernel_second_root": {
+      "residual": "0",
+      "quadratic_relation_used": false
+    },
+    "C_two_root_binding": {
+      "residual": "0",
+      "quadratic_relation_used": false
+    },
+    "C_additive_substitution": {
+      "residual": "0",
+      "quadratic_relation_used": false
+    },
+    "B_tree_qdiff_multiplier": {
+      "residual": "0",
+      "quadratic_relation_used": false
+    },
+    "B_tree_qdiff_forcing": {
+      "residual": "0",
+      "quadratic_relation_used": false
+    },
+    "B_J_normalization": {
+      "residual": "0",
+      "quadratic_relation_used": true
+    },
+    "B_W_normalization": {
+      "residual": "0",
+      "quadratic_relation_used": true
+    },
+    "logarithmic_derivative_multipliers": [
+      0,
+      0,
+      -6
+    ]
+  },
+  "all_passed": true,
+  "branch_polynomial": "q+(1-2*q-2*q**2+q**3)*r+q**2*r**2"
+}

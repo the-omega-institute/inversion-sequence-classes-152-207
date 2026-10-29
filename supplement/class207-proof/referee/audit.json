@@ -1,0 +1,32 @@
+{
+  "exact_certificates": {
+    "C_Lambert_redundancy": true,
+    "C_partial_fractions": true,
+    "beta_specialization": true,
+    "B_telescoper": true,
+    "universal_cubic_R": true,
+    "product_constant_23": true,
+    "tail_n2": true,
+    "tail_all_n_ratio": true,
+    "logarithmic_multipliers": true,
+    "published_tree_elimination": true
+  },
+  "numerical_independent_parameters": [
+    {
+      "q": "0.12",
+      "r": "-0.31",
+      "absolute_residual": "1.8111358e-70"
+    },
+    {
+      "q": "0.27",
+      "r": "-0.63",
+      "absolute_residual": "2.5355901e-70"
+    },
+    {
+      "q": "0.4",
+      "r": "-0.2",
+      "absolute_residual": "3.7671625e-69"
+    }
+  ],
+  "numerical_scope": "70 decimal working precision, 190 orbit terms and 219 Lambert terms; supplementary to the written proof"
+}

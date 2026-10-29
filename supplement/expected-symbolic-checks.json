@@ -1,0 +1,21 @@
+{
+  "exact_identities": [
+    "B scalar elimination",
+    "B conjugacy",
+    "B multiplier factorization",
+    "B forcing",
+    "C first kernel root",
+    "C second kernel root",
+    "C root-sum parameter",
+    "full B transfer",
+    "Class152 first weighted run",
+    "Class152 second weighted run",
+    "Class152 weighted left simplification",
+    "Class152 equality",
+    "Class152 closed generating function",
+    "Catalan fixed-point solution",
+    "C parameter bridge",
+    "C first bridge root",
+    "C second bridge root"
+  ]
+}

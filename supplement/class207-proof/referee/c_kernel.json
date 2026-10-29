@@ -1,0 +1,5 @@
+{
+  "C_diagonal_remainder_mod_kernel": "0",
+  "two_root_proportionality_factor": "(t**2 - t + z)**(-3)",
+  "two_root_residual": "0"
+}

@@ -1,0 +1,57 @@
+{
+  "order": 128,
+  "internal_order": 136,
+  "product_residual_zero_through": 129,
+  "total_formula_matches_both_recurrences_through": 128,
+  "C_B_totals_equal_through": 128,
+  "r_prefix": [
+    0,
+    -1,
+    -2,
+    -6,
+    -16,
+    -46,
+    -134,
+    -400,
+    -1214
+  ],
+  "H_prefix": [
+    0,
+    -1,
+    1,
+    -1,
+    1,
+    -2,
+    2,
+    -5,
+    0
+  ],
+  "D_prefix": [
+    2,
+    2,
+    0,
+    2,
+    0,
+    2,
+    12,
+    8,
+    36
+  ],
+  "total_prefix": [
+    1,
+    1,
+    2,
+    6,
+    21,
+    80,
+    324,
+    1375,
+    6052,
+    27425,
+    127273,
+    602487,
+    2900432
+  ],
+  "table_sha256": "4ec9b7d8bb7ff14a9e87c9177562432e88aa8577727a4f3aeb9eb4fbd7f67cb8",
+  "exact_integer_divisions": true
+}

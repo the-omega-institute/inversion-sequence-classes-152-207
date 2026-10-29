@@ -1,0 +1,62 @@
+{
+  "N": 14,
+  "totals": [
+    1,
+    1,
+    2,
+    6,
+    21,
+    80,
+    324,
+    1375,
+    6052,
+    27425,
+    127273,
+    602487,
+    2900432
+  ],
+  "residuals": [
+    {
+      "x": 2,
+      "first_failure": null,
+      "residual_prefix": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "x": 3,
+      "first_failure": null,
+      "residual_prefix": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "x": -1,
+      "first_failure": null,
+      "residual_prefix": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

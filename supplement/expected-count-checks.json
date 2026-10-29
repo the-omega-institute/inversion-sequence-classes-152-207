@@ -1,0 +1,87 @@
+{
+  "status": "PASS",
+  "tree_and_recurrence_lengths": [
+    0,
+    12
+  ],
+  "literal": {
+    "A152": {
+      "counts_0_to_8": [
+        1,
+        1,
+        2,
+        5,
+        15,
+        50,
+        176,
+        638,
+        2354
+      ]
+    },
+    "B152": {
+      "counts_0_to_8": [
+        1,
+        1,
+        2,
+        5,
+        15,
+        50,
+        176,
+        638,
+        2354
+      ]
+    },
+    "B207": {
+      "counts_0_to_8": [
+        1,
+        1,
+        2,
+        6,
+        21,
+        80,
+        324,
+        1375,
+        6052
+      ],
+      "site_transitions_checked": 35285,
+      "slack_at_length_4": [
+        6,
+        9,
+        5,
+        1
+      ]
+    },
+    "C207": {
+      "counts_0_to_8": [
+        1,
+        1,
+        2,
+        6,
+        21,
+        80,
+        324,
+        1375,
+        6052
+      ],
+      "site_transitions_checked": 35285,
+      "slack_at_length_4": [
+        6,
+        10,
+        4,
+        1
+      ],
+      "fixed_maximum_checks": {
+        "m": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "lengths": [
+          1,
+          8
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Package inventory
+
+Public repository:
+  - verification code: Python files under supplement/
+  - data: supplement/counts.csv and expected JSON records
+  - no .tex, .pdf, correspondence, mail records, or build outputs
+
+Release asset source_20261029.zip members:
+  README.md
+  manuscript_20261029.tex
+  elsarticle.cls
+  supplement/class207_recurrence.py
+
+The LaTeX bibliography is embedded in manuscript_20261029.tex and the
+manuscript has no external figure files. The release archive contains source
+only; no PDF, .bib, figure, auxiliary, log, or cache member is present.
